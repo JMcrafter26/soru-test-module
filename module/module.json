@@ -1,9 +1,9 @@
 {
     "sourceName": "TestModule",
-    "iconUrl": "https://github.com/JMcrafter26/soru-test-module/blob/main/module/icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/JMcrafter26/soru-test-module/refs/heads/main/module/icon.png",
     "author": {
         "name": "AuthorName",
-        "icon": "https://github.com/JMcrafter26/soru-test-module/blob/main/module/icon.png",
+        "icon": "https://raw.githubusercontent.com/JMcrafter26/soru-test-module/refs/heads/main/module/icon.png",
         "url": "https://example.com/authorprofile"
     },
     "version": "1.0.0",
@@ -12,9 +12,10 @@
     "quality": "720p",
     "baseUrl": "https://api.example.com/",
     "searchBaseUrl": "https://example.com/search=%s",
-    "scriptUrl": "https://github.com/JMcrafter26/soru-test-module/blob/main/module/script.js",
+    "scriptUrl": "https://raw.githubusercontent.com/JMcrafter26/soru-test-module/refs/heads/main/module/script.js",
     "type": "movies/shows",
     "downloadSupport": false,
     "asyncJS": true,
     "supportsSoru": true
+
 }
