@@ -6,7 +6,7 @@
         "icon": "https://raw.githubusercontent.com/JMcrafter26/soru-test-module/refs/heads/main/module/icon.png",
         "url": "https://example.com/authorprofile"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "language": "English (DUB)",
     "streamType": "HLS",
     "quality": "720p",
@@ -19,3 +19,4 @@
     "supportsSoru": true
 
 }
+
